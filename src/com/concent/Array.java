@@ -2,13 +2,13 @@ package com.concent;
 
 public class Array {
     public static void main(String args[]){
-        String cars[] = {"volvo","BMW","RR","SWFIT","ford"};
+        String cars[] = {"volvo","BMW","RR","SWFIT","ford"};//similar group lo elements
         System.out.println(cars.length);
-        //for(int i=0;i<cars.length;i++){
-           // System.out.println(cars[i]);
+        for(int i=0;i<cars.length;i++){
+            System.out.println(cars[i]);
 
-         for(String i : cars){
-             System.out.println(i );
+         //for(String i : cars){
+             //System.out.println(i );
          }
         }
     }

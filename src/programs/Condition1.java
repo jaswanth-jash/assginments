@@ -7,10 +7,9 @@ public class Condition1 {
         Scanner scan = new Scanner(System.in);
         System.out.println("enter the value");
         int num = scan.nextInt();
-        if (num<10){
+        if (num < 10) {
             System.out.println("num is less than 10");
-        }
-        else{
+        } else {
             System.out.println("num is greater than 10");
         }
     }
