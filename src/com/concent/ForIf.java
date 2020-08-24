@@ -10,26 +10,23 @@ public class ForIf {
                     System.out.println("Starting three months winter season " + month);
                 }
             }
-            if (season.equals("summer")) {
-                for (month = 4; month <= 6; month++) {
-                    if (month == 6) {
-                        System.out.println("Next three months summer season " + month);
-                    }
+        } else if (season.equals("summer")) {
+            for (month = 4; month <= 6; month++) {
+                if (month == 6) {
+                    System.out.println("Next three months summer season " + month);
                 }
-                if (season.equals("rainy")) {
-                    for (month = 7; month <= 9; month++) {
-                        if (month == 9) {
-                            System.out.println("Next three months rainy season " + month);
-                        }
-                        break;
-                    }
-                    if (season.equals("post monsoon")) {
-                        for (month = 9; month <= 12; month++) {
-                            if (month == 12) {
-                                System.out.println("Last threes months post monsoon seasons " + month);
-                            }
-                        }
-                    }
+            }
+        } else if (season.equals("rainy")) {
+            for (month = 7; month <= 9; month++) {
+                if (month == 9) {
+                    System.out.println("Next three months rainy season " + month);
+                }
+                break;
+            }
+        } else if (season.equals("post monsoon")) {
+            for (month = 9; month <= 12; month++) {
+                if (month == 12) {
+                    System.out.println("Last threes months post monsoon seasons " + month);
                 }
             }
         } else {
