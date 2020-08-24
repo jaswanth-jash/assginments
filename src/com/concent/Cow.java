@@ -1,13 +1,8 @@
 package com.concent;
 
-import java.util.Scanner;
-
 public class Cow {
     public static void main(String args[]) {
-        Scanner scan = new Scanner(System.in);
-        System.out.println("enter the value");
-        // y i am using scanner because we gave certain number in input
-        int n = scan.nextInt();
+        int n = 45000;
         // y i am using this concept the value of cows
         if (n < 50000) {
             System.out.println("normal cow");
