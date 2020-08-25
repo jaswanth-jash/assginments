@@ -8,9 +8,9 @@ public class ConcentDetails {
         } else if (position.equals("Developers")) {
             System.out.println("Venkat Ayyappa Yaspal Gopi Jaga those are developers in company. ");
         } else if (position.equals("Testing")) {
-            System.out.println("Usha ,now she is a testing team in company.");
+            System.out.println("Uma ,now she is a testing team in company.");
         } else if (position.equals("Freshers")) {
-            System.out.println("Jaswanth Rekha Lekha Pravalika Sai those are fresher in company. ");
+            System.out.println("Jaswanth,Rekha,Lekha,Pravalika,Sai those are fresher in company. ");
         } else {
             System.out.println("Abin Hemanth those are UI design in company.");
         }

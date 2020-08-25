@@ -2,7 +2,7 @@ package statementsloops;
 
 public class MyFamily {
     public static void main(String args[]) {
-        String name = "subhashini ";
+        String name = "subhashini";
         int age;
         if (name.equals("govardhan")) {
             for (age = 45; age <= 50; age++) {
