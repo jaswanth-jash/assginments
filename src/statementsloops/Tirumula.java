@@ -3,7 +3,7 @@ package statementsloops;
 public class Tirumula {
     public static void main(String args[]) {
         System.out.println("Instructions to ticket booking for darshanam  ");
-        String rules = "old";
+        String rules = "young";
         int age;
         if (rules.equals("old")) {
             for (age = 65; age <= 70; age++) {
