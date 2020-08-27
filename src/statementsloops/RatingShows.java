@@ -3,7 +3,7 @@ package statementsloops;
 public class RatingShows {
     public static void main(String args[]) {
         System.out.println("Rating of news channel in india\n");
-        String showName = "tv9";
+        String showName = "iNews";
         int rating;
         if (showName.equals("tv9")) {
             for (rating = 1; rating <= 5; rating++) {
@@ -31,7 +31,7 @@ public class RatingShows {
                 }
             }
         } else {
-            System.out.println("Other news channel rating below 2");
+            System.out.println(showName + " channel rating below 2");
         }
     }
 }
