@@ -8,8 +8,8 @@ public class Logical1 {
         if (number1 < number2 && number1 < number3) {
             System.out.println("Smallest Number is number1");
         }
-        if (number3 > number2 || number3 > number1) {
-            System.out.println("number3 is not smallest");
+        if (number2 > number3 || number3 > number1) {
+            System.out.println("Number2 greater than number3 is greater than number1");
         }
     }
 }
