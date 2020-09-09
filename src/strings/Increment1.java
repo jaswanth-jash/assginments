@@ -9,12 +9,15 @@ public class Increment1 {
         System.out.println("after increment :" + a);
         a++;
         System.out.println("after increment :" + a);
-
+        ++a;
+        System.out.println("pre increment :" + a);
 
         System.out.println("before increment :" + b);
         b++;
         System.out.println("after increment :" + b);
         b++;
         System.out.println("after increment :" + b);
+        ++b;
+        System.out.println("pre increment :" + b);
     }
 }

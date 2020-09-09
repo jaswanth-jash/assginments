@@ -10,7 +10,7 @@ public class Decrement1 {
         a--;
         System.out.println("after decrement :" + a);
         --a;
-        System.out.println("post decrement :" + a);
+        System.out.println("pre decrement :" + a);
 
         System.out.println("before decrement :" + b);
         b--;
@@ -18,6 +18,6 @@ public class Decrement1 {
         b--;
         System.out.println("after decrement :" + b);
         --b;
-        System.out.println("post decrement :" + b);
+        System.out.println("pre decrement :" + b);
     }
 }
