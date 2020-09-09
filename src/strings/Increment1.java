@@ -10,6 +10,7 @@ public class Increment1 {
         a++;
         System.out.println("after increment :" + a);
 
+
         System.out.println("before increment :" + b);
         b++;
         System.out.println("after increment :" + b);
