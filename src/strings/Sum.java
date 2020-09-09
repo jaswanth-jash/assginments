@@ -2,7 +2,6 @@ package strings;
 
 public class Sum {
     public static void main(String[] args) {
-        //Initialize array
         int[] arr = {1, 2, 3, 4, 5};
         int sum = 0;
         //Loop through the array to calculate sum of elements
