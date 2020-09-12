@@ -1,7 +1,7 @@
 package strings;
 
 public class Return2 {
-    void display() {
+    int display() {
         return 25;
     }
 
