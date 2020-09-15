@@ -32,6 +32,26 @@ Declaring Objects :
      After the second line executes, you can use mybox as if it	were a Box object.
      But in	reality, mybox simply holds, in	essence, the memory	address	of the actual Box object.
 
+A Closer Look at new :
+     The new operator dynamically allocates	memory for an object.
+     The	classname	is the	name	of	the	class	that	is	being	instantiated.
+     The	class	name	followed	by parentheses	specifies	the	constructor	for	the	class.
+     A	constructor	defines	what occurs	when	an	object	of	a	class	is	created.
+     Constructors	are	an	important	part of	all	classes	and	have	many	significant	attributes.
+     However, if	no	explicit	constructor	is	specified,
+                                 then	Java	will	automatically	supply	a default	constructor.
+      	This	is	the	case	with	Box.	For	now,	we	will	use	the	default constructor.
+      	                   Soon,	you	will	see	how	to	define	your own constructors.
+
+ why you do	not	need to	use	new	for such things	as integers	or characters?
+     	The	answer	is	that	Java’s	primitive	types are	not	implemented	as	objects.
+     	Rather,	they	are	implemented	as	“normal” variables.
+     	This	is	done	in	the	interest	of	efficiency.
+     	As	you	will	see,	objects have	many	features	and	attributes	that	require
+     	                    Java	to	treat	them	differently than	it	treats	the	primitive	types.
+
+
+
 
 
 
