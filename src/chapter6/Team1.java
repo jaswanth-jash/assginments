@@ -9,7 +9,7 @@ public class Team1 {
         Team1 t = new Team1();
         t.teamName = "MyKlass Dev Team";
         t.totalMembers = 15;
-        t.strength = "Developer";
+        t.strength = "good team";
 
         System.out.println(t.teamName);
         System.out.println(t.totalMembers);
