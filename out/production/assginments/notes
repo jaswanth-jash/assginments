@@ -77,6 +77,18 @@ A Closer Look at new :
          b1	=	null;
          Here,	b1	has	been	set	to	null,	but	b2	still	points	to	the	original	object.
 
+   Introducing	Methods :
+         	classes	usually	consist	of	two things:	instance	variables	and	methods.
+         	The	topic	of	methods	is	a	large	one because	Java	gives	them	so	much	power	and	flexibility.
+         	Here,	type	specifies	the	type	of	data	returned	by	the	method.
+         	This	can	be	any valid	type,	including	class	types	that	you	create.
+         	If	the	method	does	not	return	a value,	its	return	type	must	be	void.
+         	The	name of	the	method is specified	by name.If the method has no parameters, then the parameter	list will be empty.
+         	The	parameter-list	is	a	sequence	of	type	and identifier	pairs	separated	by	commas.
+         	Parameters	are	essentially	variables that receive the value of the arguments passed to the method when it is called.
+
+
+
 
 
 
