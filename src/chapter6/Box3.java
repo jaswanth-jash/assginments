@@ -13,9 +13,9 @@ public class Box3 {
     public static void main(String args[]) {
         Box3 b = new Box3();
         //assign to values b instances variables
-        b.width = 25;
-        b.height = 15;
-        b.depth = 10;
+        b.width = 35;
+        b.height = 25;
+        b.depth = 15;
 
         //display box volume
         b.volume();
