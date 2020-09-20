@@ -86,6 +86,8 @@ A Closer Look at new :
          	The	name of	the	method is specified	by name.If the method has no parameters, then the parameter	list will be empty.
          	The	parameter-list	is	a	sequence	of	type	and identifier	pairs	separated	by	commas.
          	Parameters	are	essentially	variables that receive the value of the arguments passed to the method when it is called.
+
+
 Returning	a	Value :
             While	the	implementation	of	volume(	)	does	move	the	computation	of	a	box’s volume	inside
                                   the	Box	class	where	it	belongs,	it	is	not	the	best	way	to	do	it.
@@ -97,6 +99,16 @@ Returning	a	Value :
                 Double volume()
                 return W*H*D
 
+Adding	a	Method	That	Takes	Parameters :
+            While	some	methods	don’t	need	parameters,	most	do.	Parameters	allow	a method	to	be	generalized.
+            That	is,	a	parameterized	method	can	operate	on	a variety	of	data	and/or	be	used
+                                                     in	a	number	of	slightly	different	situations.
+             It	is	important	to	keep	the	two	terms	parameter	and	argument	straight.
+             A parameter	is	a	variable	defined	by	a	method	that	receives	a	value	when	the method	is	called.
+             Here we declare in class one more method and we print main method by using parameterised method.
+
+             eg:
+               box b1=new box(12,34,23);
 
 
 
