@@ -86,6 +86,17 @@ A Closer Look at new :
          	The	name of	the	method is specified	by name.If the method has no parameters, then the parameter	list will be empty.
          	The	parameter-list	is	a	sequence	of	type	and identifier	pairs	separated	by	commas.
          	Parameters	are	essentially	variables that receive the value of the arguments passed to the method when it is called.
+Returning	a	Value :
+            While	the	implementation	of	volume(	)	does	move	the	computation	of	a	box’s volume	inside
+                                  the	Box	class	where	it	belongs,	it	is	not	the	best	way	to	do	it.
+
+  	what	if	another	part	of	your	program	wanted	to	know	the	volume	of	a box,	but	not	display	its	value?
+  	       	A	better	way	to	implement	volume(	)	is	to	have it	compute	the	volume	of	the	box	and	return	the
+  	       	  result	to	the	caller.	The following	example,	an	improved	version	of	the	preceding	program,
+
+                Double volume()
+                return W*H*D
+
 
 
 
