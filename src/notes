@@ -124,6 +124,15 @@ Constructors:
               To	do	so,	replace setDim(	)	with	a	constructor.
               Let’s	begin	by	defining	a	simple	constructor	that sets	the	dimensions	of	each	box	to	the	same	values.
 
+              new	Box(	)	is	calling	the	Box(	)	constructor.
+              When	you	do	not	explicitly	define a constructor for a	class,then Java creates a default constructor for the class.
+              This	is	why	the	preceding line of code worked in earlier versions of Box that did not define a constructor.
+              When	using	the	default	constructor, all non initialized	instance variables	will have their	default	values,
+              which	are	zero, null,	and	false,	for	numeric	types,	reference	types,	and	boolean,	respectively.
+              The default constructor is often	sufficient for simple classes, but it usually won’t	do for more	sophisticated ones.
+              Once	you	define	your	own	constructor, the	default	constructor	is	no	longer	used.
+               
+
 
 
 
