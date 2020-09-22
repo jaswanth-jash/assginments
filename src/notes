@@ -131,7 +131,15 @@ Constructors:
               which	are	zero, null,	and	false,	for	numeric	types,	reference	types,	and	boolean,	respectively.
               The default constructor is often	sufficient for simple classes, but it usually won’t	do for more	sophisticated ones.
               Once	you	define	your	own	constructor, the	default	constructor	is	no	longer	used.
-               
+
+  Parameterized	Constructors:
+           While the Box(	) constructor in the preceding example does	initialize a Box object,it is not very useful—all boxes	have the same	dimensions.
+           What	is needed	is	a	way	to	construct	Box	objects	of	various	dimensions.
+           The	easy solution	is	to	add	parameters	to	the	constructor.
+           As	you	can	probably	guess,	this makes	it	much	more	useful.
+           	Pay	special	attention	to	how	Box	objects	are	created
+
+
 
 
 
