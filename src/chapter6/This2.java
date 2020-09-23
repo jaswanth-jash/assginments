@@ -18,7 +18,7 @@ public class This2 {
 
     public static void main(String args[]) {
         This1 b = new This1(12, 23, 5);// create box object called   b
-        This2 b1 = new This2(15, 13, 14);
+        This2 b1 = new This2(15, 13, 7);
         double vol;
         vol = b.volume();
         System.out.println("volume b is :" + vol);
