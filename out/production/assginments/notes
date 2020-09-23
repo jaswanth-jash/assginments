@@ -138,6 +138,38 @@ Constructors:
            The	easy solution	is	to	add	parameters	to	the	constructor.
            As	you	can	probably	guess,	this makes	it	much	more	useful.
            	Pay	special	attention	to	how	Box	objects	are	created
+The	this	Keyword:
+           Sometimes	a	method	will	need	to	refer	to	the	object	that	invoked	it.
+           To	allow this,	Java	defines	the	this	keyword.
+           this	can	be	used	inside	any	method	to	refer to	the	current	object.
+           That	is,	this	is	always	a	reference	to	the	object	on	which the	method	was	invoked.
+           You	can	use	this	anywhere	a	reference	to	an	object	of the	current	class’	type	is	permitted.
+           A redundant use of this
+           Box(int w,int h,int d){
+               this. width = w;
+               this.height = h;
+               this.depth = d;
+           }
+           This	version	of	Box(	)	operates	exactly	like	the	earlier	version.
+           The	use	of	this is	redundant,	but	perfectly	correct.
+           Inside	Box(	),	this	will	always	refer	to	the invoking	object.
+Instance	Variable	Hiding :
+           it is illegal in	Java to	declare	two	local variables	with the same name inside the same or enclosing	scopes.
+           	Interestingly,you can have local variables,	including	formal	parameters	to	methods,
+           	                               which	overlap	with	the names	of	the	class’	instance	variables.
+           	However,	when	a	local	variable	has	the same	name	as	an	instance	variable,
+           	                                                    the	local	variable	hides	the	instance variable.
+           This	is	why	width,height,and depth were	not	used as	the	names of the parameters	to the Box(	) constructor inside the Box class.
+           Because	this lets you refer directly to	the	object,	you	can	use	it	to	resolve	any	namespace collisions that might	occur between instance	variables and local	variables.
+
+           Use this to resolve name-space collisions
+           Box(int width,int height,int depth){
+                     this. width = width;
+                     this.height = height;
+                     this.depth = depth;
+               }
+            A	word of	caution: The use of	this in	such a context can sometimes be confusing,and some
+            programmers	are	careful	not	to	use	local variables	and formal	parameter names	that hide instance variables.
 
 
 
