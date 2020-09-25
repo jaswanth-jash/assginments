@@ -11,14 +11,14 @@ public class Student3 {
         this.name = name;
     }
 
-    void res() {
+    void result() {
         System.out.println("id:" + id + " name :" + name + "  ");
     }
 
     public static void main(String[] args) {
         Student3 s = new Student3(1102, "jay");
         Student3 s1 = new Student3(1102, "yojith");
-        s.res();
-        s1.res();
+        s.result();
+        s1.result();
     }
 }
