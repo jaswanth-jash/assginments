@@ -11,7 +11,7 @@ public class This4 {
         this.depth = depth;
     }
 
-    double volume() {
+    double volume1() {
 
         return width * height * depth;
     }
@@ -20,10 +20,10 @@ public class This4 {
         This4 b = new This4(27, 17, 7);// create box object called   b
         This4 b1 = new This4(26, 16, 8);
         double vol;
-        vol = b.volume();
+        vol = b.volume1();
         System.out.println("volume b is :" + vol);
 
-        vol = b1.volume();
+        vol = b1.volume1();
         System.out.println("volume b1 is :" + vol);
 
     }
