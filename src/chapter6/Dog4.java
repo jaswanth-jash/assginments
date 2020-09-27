@@ -11,14 +11,14 @@ public class Dog4 {
         this.bread = bread;
     }
 
-    void result() {
+    void res() {
         System.out.println("name : " + name + ", cost : " + cost + ", bread : " + bread + " ");
     }
 
     public static void main(String[] args) {
         Dog4 d = new Dog4("husky", 30000, "doberman");
         Dog4 d1 = new Dog4("rockey", 10000, "bulldog");
-        d.result();
-        d1.result();
+        d.res();
+        d1.res();
     }
 }
