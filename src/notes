@@ -171,6 +171,12 @@ Instance	Variable	Hiding :
             A	word of	caution: The use of	this in	such a context can sometimes be confusing,and some
             programmers	are	careful	not	to	use	local variables	and formal	parameter names	that hide instance variables.
 
+Garbage	Collection:
+          Since	objects	are	dynamically	allocated	by	using	the	new	operator,you might be wondering	how	such objects
+                                     are	destroyed	and	their	memory	released	for later	reallocation.
+          In some languages, such as traditional C++,dynamically allocated	objects	must be	manually released	by	use	of	a delete operator.
+          Java takes	a	different	approach;	it	handles	deallocation	for	you	automatically.
+          	The technique	that	accomplishes	this	is	called	garbage	collection.
 
 
 
