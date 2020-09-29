@@ -9,7 +9,7 @@ public class Dog1 {
         Dog1 d = new Dog1();
         d.name = "jockey";
         d.cost = 10000;
-        d.bread = "german";
+        d.bread = "germansheped";
         System.out.println(d.name);
         System.out.println(d.cost);
         System.out.println(d.bread);
