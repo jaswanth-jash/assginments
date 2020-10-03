@@ -5,7 +5,7 @@ public class LabeledContinue1 {
 
         // outer loop is labeled as first
         first:
-        for (int i = 1; i < 5; ++i) {
+        for (int i = 1; i < 6; ++i) {
 
             // inner loop
             for (int j = 1; j < 4; ++j) {
