@@ -11,6 +11,7 @@ public class Armstrong {
             remainder = originalNumber % 10;
             result += Math.pow(remainder, 3);
             originalNumber /= 10;
+            System.out.println("remainder value :" + remainder);
         }
 
         if (result == number)
