@@ -7,7 +7,8 @@ public class Calculator1 {
         int a = 23;
         int b = 15;
         String[] operations = {"addition", "substraction", "multipication", "division", "modulo"};
-        if (name.equals("addition")) {
+        for (int i =0;i<=operations.length;i++)
+        if ((name.equals(operations))) {
             add = a + b;
             System.out.println("Addition :" + add);
         } else if (name.equals("substraction")) {
@@ -22,8 +23,8 @@ public class Calculator1 {
         } else if (name.equals("modulo")) {
             mod = a - b;
             System.out.println("modulo :" + mod);
-        } else {
+        }/* else {
             System.out.println("operation is not their");
-        }
+        }*/
     }
 }
