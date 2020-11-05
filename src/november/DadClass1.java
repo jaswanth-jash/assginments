@@ -19,7 +19,7 @@ class ChildClass extends DadClass1 {
     void disp() {
         System.out.println("Child class");
         //Calling the disp() method of parent class
-        super.disp();
+       // super.disp();
     }
 
     public static void main(String args[]) {
