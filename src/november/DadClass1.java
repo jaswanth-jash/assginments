@@ -8,6 +8,7 @@ public class DadClass1 {
 
     void disp() {
         System.out.println("Parent method");
+
     }
 }
 
