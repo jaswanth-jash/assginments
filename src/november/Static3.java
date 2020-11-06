@@ -1,7 +1,7 @@
 package november;
 
 public class Static3 {
-    static int num1 = 21;
+    static int num1 ;
     String name;
 
     public static void main(String args[]) {
@@ -25,5 +25,6 @@ public class Static3 {
         System.out.println("obj1 String :" + obj1.name);
         System.out.println("s number :" + s.num1);
         System.out.println("s String :" + s.name);
+
     }
 }
