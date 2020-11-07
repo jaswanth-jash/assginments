@@ -28,7 +28,7 @@ abstract class Eagle extends Bird {
 
         @Override
         void fly() {
-            System.out.println("Flying on mountains");
+            System.out.println("Golden Eagles Flying on mountains");
         }
     }
 
@@ -36,7 +36,7 @@ abstract class Eagle extends Bird {
 
         @Override
         void fly() {
-            System.out.println("Flying on oceans");
+            System.out.println("Serpent Eagle Flying on oceans");
         }
     }
 
