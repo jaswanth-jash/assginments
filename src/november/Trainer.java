@@ -17,7 +17,7 @@ class Team implements Trainer, Trainer2 {
 
     @Override
     public void second() {
-        System.out.println("Vamsi is aslo a trainer");
+        System.out.println("Vamsi is also a 2nd trainer");
 
     }
 
