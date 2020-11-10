@@ -12,12 +12,12 @@ class D2 implements Drawing {
 
     @Override
     public void dis() {
-        System.out.println("Drawing cude method");
+        System.out.println("Drawing cube area ");
     }
 
     public static void main(String args[]) {
         D2 d = new D2();
         d.dis();
-        System.out.println(Drawing.cube(5));
+        System.out.println(Drawing.cube(4));
     }
 }
