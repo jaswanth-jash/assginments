@@ -12,12 +12,12 @@ class Team2 implements Team3 {
 
     @Override
     public void print2() {
-        System.out.println("ayyappa team");
+        System.out.println("Ayyappa team1");
     }
 
     @Override
     public void given() {
-        System.out.println("Vamsee Team");
+        System.out.println("Vamsee Team2");
     }
 
     public static void main(String args[]) {
