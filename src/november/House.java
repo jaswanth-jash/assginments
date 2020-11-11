@@ -9,7 +9,7 @@ class House1 implements House {
         System.out.println("3 BHK house");
     }
 
-     class House2 implements House {
+    static class House2 implements House {
 
         @Override
         public void flates() {
@@ -19,9 +19,9 @@ class House1 implements House {
 
     public static void main(String args[]) {
         House h = new House1();
-       //House h1 = new House2();
+        House h1 = new House2();
         h.flates();
-       // h1.flates();
+        h1.flates();
     }
 }
 
