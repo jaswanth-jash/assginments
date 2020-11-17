@@ -20,7 +20,6 @@ public class Static7 {
     }
 
     public static void main(String args[]) {
-        Static7.jash(); //calling change method
         Static7 s1 = new Static7("jay", 11);
         Static7 s2 = new Static7("jash", 12);
         Static7 s3 = new Static7("yoji", 13);
