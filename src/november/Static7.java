@@ -3,7 +3,7 @@ package november;
 public class Static7 {
     String name;
     int age;
-    static String collegename = "veltech";
+    static String collegename = "RMD";
 
     //static method to change the value of static variable
     static void jash() {
@@ -20,6 +20,7 @@ public class Static7 {
     }
 
     public static void main(String args[]) {
+        Static7.jash();
         Static7 s1 = new Static7("jay", 11);
         Static7 s2 = new Static7("jash", 12);
         Static7 s3 = new Static7("yoji", 13);
