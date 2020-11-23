@@ -2,7 +2,7 @@ package november;
 
 public class Teacher1 {
     String designation = "Teachers";
-    String collegeName = "Edify";
+    String collegeName = "RMD";
 
     void does() {
         System.out.println("Teaching");
@@ -18,7 +18,7 @@ class MathsTeacher extends Teacher1 {
 }
 
 class MusicTeacher extends Teacher1 {
-    String Subject = "music";
+    String Subject = "Sports";
 
 
     public static void main(String args[]) {
