@@ -15,7 +15,7 @@ public class Super2 {
 
 class Jashu extends Super2 {
     Jashu() {
-        super("jaswanth");
+        super("jay");
         System.out.println("child constructor");
     }
 
