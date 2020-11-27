@@ -18,6 +18,8 @@ public class ArrayList1 {
         list.remove(1);
         list.add("sai");
         System.out.println(list);
+        list.size();
+        System.out.println(list);
     }
 }
 
