@@ -11,15 +11,11 @@ public class ArrayList2 {
         a.add("jashu");
         a.add(0, "jagan");
         a.remove(3);
+        a.add(4,"venkat");
 
         Iterator itr = a.iterator();
         while (itr.hasNext()) {
             System.out.println(itr.next());
         }
-            a.get(1);
-            a.indexOf("jashu");
-            a.size();
-            System.out.println(a);
-
     }
 }
