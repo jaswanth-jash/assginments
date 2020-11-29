@@ -14,7 +14,8 @@ we have both backend and frontend and database
 
 FINALLY in this application runs on 11 jdk if we dont have we have to downland that one.
 
-when u start application first u  open my workbenchsql in laptop
+when u start application
+first u  open my workbenchsql in laptop
  and u run the application in backend.
 
 *FRONTEND
@@ -24,11 +25,11 @@ when u start application first u  open my workbenchsql in laptop
 
 commands
 1) npm node
-2)npm install yes
+2)npm install
 3) npm start
 
 finaly both application are run together
 
-go to chrome enter the url and open the crediatials
+go to chrome enter the url and open the Crediatials
 
 before that we have to register the application
