@@ -1,0 +1,35 @@
+myklass application setup
+
+we have both backend and frontend and database
+
+* BACKEND
+
+->In gitlab i created one sub branch
+
+
+1) GIT CLONE 	URL
+2) GIT BRANCH -a
+3) GIT CHECKOUT BRANCH NAME
+4) GIT BRANCH
+
+FINALLY in this application runs on 11 jdk if we dont have we have to downland that one.
+
+when u start application
+first u  open my workbenchsql in laptop
+ and u run the application in backend.
+
+*FRONTEND
+
+1) first u open visual studio then u import the frontend code in u r system
+2) and we have to install nodejs packages in visual studio
+
+commands
+1) npm node
+2)npm install
+3) npm start
+
+finaly both application are run together
+
+go to chrome enter the url and open the Crediatials
+
+before that we have to register the application
