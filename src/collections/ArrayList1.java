@@ -13,13 +13,13 @@ public class ArrayList1 {
         list.add(2, "ayyappa");
         //list.add(10);
         System.out.println(list);
-        list.get(1);
-        System.out.println(list);
+        //list.get(1);
+        System.out.println(list.get(3));
         list.remove(1);
         list.add("sai");
         System.out.println(list);
-        list.size();
-        System.out.println(list);
+       //list.size();
+        System.out.println(list.size());
     }
 }
 
