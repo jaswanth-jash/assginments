@@ -17,6 +17,7 @@ public class ArrayList1 {
         list.add("sai");
         System.out.println(list);
         list.add(5, "team");
+        list.remove(3);
         System.out.println(list.size());
     }
 }
