@@ -12,6 +12,7 @@ public class ArrayList4 {
         System.out.println(al);
         al.set(2, "jay");
         al.remove(3);
+        al.add(3,"java");
         System.out.println(al);
         System.out.println(al.size());
     }
