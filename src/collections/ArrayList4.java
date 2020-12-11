@@ -14,6 +14,7 @@ public class ArrayList4 {
         al.remove(3);
         al.add(3, "java");
         al.add("angular");
+        al.remove(4);
         System.out.println(al);
         System.out.println(al.size());
     }
