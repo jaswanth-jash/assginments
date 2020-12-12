@@ -12,6 +12,7 @@ public class ArrayList2 {
         a.add(0, "jagan");
         a.remove(3);
         a.add(4,"venkat");
+        a.set(3,"venkat y");
 
         Iterator itr = a.iterator();
         while (itr.hasNext()) {
