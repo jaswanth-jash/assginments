@@ -12,6 +12,7 @@ public class ArrayList5 {
         jj.add(3, "pavithra");
         jj.add("raskith");
         jj.set(4, "raskith");
+        jj.remove(4);
         Iterator itr = jj.iterator();
         while (itr.hasNext()) {
             System.out.println(itr.next());
