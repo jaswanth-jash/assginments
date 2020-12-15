@@ -14,6 +14,7 @@ public class ArrayList5 {
         jj.set(4, "raskith");
         jj.add("vamsi");
         jj.remove(4);
+        jj.remove("vamsi");
         Iterator itr = jj.iterator();
         while (itr.hasNext()) {
             System.out.println(itr.next());
