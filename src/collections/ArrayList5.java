@@ -16,6 +16,7 @@ public class ArrayList5 {
         jj.remove(4);
         jj.remove("vamsi");
         jj.add("unknown");
+        jj.set(4,"unkown2");
         Iterator itr = jj.iterator();
         while (itr.hasNext()) {
             System.out.println(itr.next());
