@@ -18,6 +18,7 @@ public class ArrayList4 {
         al.add(4,"leaner");
         al.set(4,"developer");
         al.add("python");
+        al.set(5,"react");
         System.out.println(al);
         System.out.println(al.size());
     }
