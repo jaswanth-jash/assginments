@@ -20,6 +20,7 @@ public class ArrayList4 {
         al.add("python");
         al.set(5,"react");
         al.remove("react");
+        al.remove("java");
         System.out.println(al);
         System.out.println(al.size());
     }
