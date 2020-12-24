@@ -15,6 +15,7 @@ public class ArrayList6 {
         a.add(4,"ajith");
         a.set(3,"charan");
         a.add(5,"haneesh");
+        a.remove(4);
 
         Iterator itr = a.iterator();
         while (itr.hasNext()) {
