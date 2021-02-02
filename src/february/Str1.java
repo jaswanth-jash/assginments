@@ -9,6 +9,8 @@ public class Str1 {
         System.out.println(txt.isEmpty());
         System.out.println(txt.toUpperCase());
         System.out.println(txt.toLowerCase());
+        System.out.println(txt.replace('w','t'));
+        System.out.println(txt.startsWith("Ple"));
     }
 }
 
