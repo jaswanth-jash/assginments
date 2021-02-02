@@ -6,6 +6,9 @@ public class Str1 {
         System.out.println(txt.indexOf("locate"));
         System.out.println(txt.length());
         System.out.println(txt.charAt(9));
+        System.out.println(txt.isEmpty());
+        System.out.println(txt.toUpperCase());
+        System.out.println(txt.toLowerCase());
     }
 }
 
