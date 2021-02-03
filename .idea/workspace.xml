@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6dbfa6-26b1-41a1-bf68-58fb4fcc3e39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/february/Operator1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assginments/february/Str1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assginments/february/Str1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/february/Str1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/february/Str1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Str1">
+  <component name="RunManager" selected="Application.Operator1">
     <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="february.Array2" />
       <module name="assginments" />
@@ -49,6 +48,19 @@
     </configuration>
     <configuration name="DataType1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="february.DataType1" />
+      <module name="assginments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="february.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="february.Operator1" />
       <module name="assginments" />
       <extension name="coverage">
         <pattern>
@@ -88,6 +100,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Operator1" />
         <item itemvalue="Application.Str1" />
         <item itemvalue="Application.DataType1" />
         <item itemvalue="Application.Array2" />
