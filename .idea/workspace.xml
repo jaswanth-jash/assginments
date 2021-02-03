@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6dbfa6-26b1-41a1-bf68-58fb4fcc3e39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/february/Logical1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assginments/february/Operator2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assginments/february/Operator2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/february/Operator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/february/Operator2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +32,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Operator2">
-    <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="february.Array2" />
+  <component name="RunManager" selected="Application.Logical1">
+    <configuration name="DataType1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="february.DataType1" />
       <module name="assginments" />
       <extension name="coverage">
         <pattern>
@@ -47,8 +46,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataType1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="february.DataType1" />
+    <configuration name="Logical1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="february.Logical1" />
       <module name="assginments" />
       <extension name="coverage">
         <pattern>
@@ -101,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Logical1" />
         <item itemvalue="Application.Operator2" />
         <item itemvalue="Application.Operator1" />
         <item itemvalue="Application.Str1" />
         <item itemvalue="Application.DataType1" />
-        <item itemvalue="Application.Array2" />
       </list>
     </recent_temporary>
   </component>
