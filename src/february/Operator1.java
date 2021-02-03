@@ -16,5 +16,7 @@ public class Operator1 {
         System.out.println(div);
         System.out.println(mod);
         System.out.println(x+=5);
+        System.out.println(y-=2);
+        System.out.println(x*=3);
     }
 }
