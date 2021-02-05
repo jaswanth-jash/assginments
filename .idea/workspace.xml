@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6dbfa6-26b1-41a1-bf68-58fb4fcc3e39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/february/Loop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/february/Ternary2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Loop1">
+  <component name="RunManager" selected="Application.Ternary2">
     <configuration name="Leap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="february.Leap1" />
       <module name="assginments" />
@@ -72,19 +72,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="february.Operator2" />
-      <module name="assginments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="february.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Ternary1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="february.Ternary1" />
       <module name="assginments" />
@@ -98,13 +85,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ternary2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="february.Ternary2" />
+      <module name="assginments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="february.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ternary2" />
         <item itemvalue="Application.Loop1" />
         <item itemvalue="Application.Ternary1" />
         <item itemvalue="Application.Leap1" />
         <item itemvalue="Application.Logical1" />
-        <item itemvalue="Application.Operator2" />
       </list>
     </recent_temporary>
   </component>
