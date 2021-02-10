@@ -2,7 +2,7 @@ package february;
 
 public class Nested1 {
     public static void main(String[] args) {
-        int age = 12;
+        int age = 33;
         int weight = 44;
         //applying condition on age and weight
         if (age >= 18) {

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6dbfa6-26b1-41a1-bf68-58fb4fcc3e39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/Switch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/Switch1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/february/Nested1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/february/Nested1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Switch1">
+  <component name="RunManager" selected="Application.Nested1">
     <configuration name="Loop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="february.Loop1" />
       <module name="assginments" />
@@ -100,8 +99,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Switch1" />
         <item itemvalue="Application.Nested1" />
+        <item itemvalue="Application.Switch1" />
         <item itemvalue="Application.Nested2" />
         <item itemvalue="Application.Ternary2" />
         <item itemvalue="Application.Loop1" />
