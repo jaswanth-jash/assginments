@@ -3,7 +3,7 @@ package february;
 public class Switch2 {
     public static void main(String[] args) {
         String levelString = "Beginner";
-        int level = 0;
+        int level = 4;
         //Using String in Switch expression
         switch (levelString) {
             //Using String Literal in Switch case
