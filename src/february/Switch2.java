@@ -2,7 +2,7 @@ package february;
 
 public class Switch2 {
     public static void main(String[] args) {
-        String levelString = "Expert";
+        String levelString = "Beginner";
         int level = 0;
         //Using String in Switch expression
         switch (levelString) {
