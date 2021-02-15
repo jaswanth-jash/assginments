@@ -9,7 +9,7 @@ public class Switch2 {
             //Using String Literal in Switch case
             case "Beginner":
                 level = 1;
-                break;
+               // break;
             case "Intermediate":
                 level = 2;
                 break;
