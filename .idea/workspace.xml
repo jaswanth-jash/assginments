@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6dbfa6-26b1-41a1-bf68-58fb4fcc3e39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/february/ForEach1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/february/Pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/february/Pattern1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +32,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Pattern1">
+  <component name="RunManager" selected="Application.ForEach1">
     <configuration name="For1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="february.For1" />
+      <module name="assginments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="february.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEach1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="february.ForEach1" />
       <module name="assginments" />
       <extension name="coverage">
         <pattern>
@@ -72,19 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="february.Test" />
-      <module name="assginments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="february.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="for2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="february.for2" />
       <module name="assginments" />
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForEach1" />
         <item itemvalue="Application.Pattern1" />
         <item itemvalue="Application.for2" />
         <item itemvalue="Application.For1" />
         <item itemvalue="Application.Switch2" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
