@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6dbfa6-26b1-41a1-bf68-58fb4fcc3e39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/february/for2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/february/Pattern1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.for2">
+  <component name="RunManager" selected="Application.Pattern1">
     <configuration name="For1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="february.For1" />
       <module name="assginments" />
@@ -46,8 +46,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nested1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="february.Nested1" />
+    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="february.Pattern1" />
       <module name="assginments" />
       <extension name="coverage">
         <pattern>
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern1" />
         <item itemvalue="Application.for2" />
         <item itemvalue="Application.For1" />
         <item itemvalue="Application.Switch2" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Nested1" />
       </list>
     </recent_temporary>
   </component>
