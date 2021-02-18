@@ -10,12 +10,22 @@ public class Break1 {
 //            System.out.println(i);
 //        }
         int i =1;
-        while (i<=6){
-            if (i == 4) {
-                break;
+//        while (i<=6){
+//            if (i == 4) {
+//                break;
+//            }
+//            System.out.println(i);
+//            i++;
+//        }
+        do{
+            if(i==5){
+                //using break statement
+                //i++;
+                break;//it will break the loop
             }
             System.out.println(i);
-            i++;
-        }
+           i++;
+     }while (i<=10);
+
     }
 }
