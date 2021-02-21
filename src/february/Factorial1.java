@@ -2,7 +2,7 @@ package february;
 
 public class Factorial1 {
     public static void main(String[] args) {
-        int num = 10;
+        int num = 20;
         long factorial = 1;
 //        while (i <= num) {
 //            factorial *= i;
