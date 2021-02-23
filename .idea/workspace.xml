@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6dbfa6-26b1-41a1-bf68-58fb4fcc3e39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/february/for2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/february/for2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/february/Fibonacci1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Factorial1">
+  <component name="RunManager" selected="Application.Fibonacci1">
     <configuration name="Break1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="february.Break1" />
       <module name="assginments" />
@@ -45,8 +46,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Do1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="february.Do1" />
+    <configuration name="Factorial1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="february.Factorial1" />
       <module name="assginments" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="february.Factorial1" />
+    <configuration name="Fibonacci1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="february.Fibonacci1" />
       <module name="assginments" />
       <extension name="coverage">
         <pattern>
@@ -99,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci1" />
         <item itemvalue="Application.Factorial1" />
         <item itemvalue="Application.For1" />
         <item itemvalue="Application.for2" />
         <item itemvalue="Application.Break1" />
-        <item itemvalue="Application.Do1" />
       </list>
     </recent_temporary>
   </component>
