@@ -6,7 +6,7 @@ public class For1 {
 //            System.out.println(i);
 //        }
 
-        int i = 6;
+        int i = 9;
         if (i%2==0){
             System.out.println("even number");
         }
