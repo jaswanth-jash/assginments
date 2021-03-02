@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6dbfa6-26b1-41a1-bf68-58fb4fcc3e39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/march/Method3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/march/Method3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/march/Method3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Method2">
+  <component name="RunManager" selected="Application.Method3">
     <configuration name="Factorial1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="february.Factorial1" />
       <module name="assginments" />
@@ -58,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="february.For1" />
+    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="march.Method2" />
       <module name="assginments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="february.*" />
+          <option name="PATTERN" value="march.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="march.Method2" />
+    <configuration name="Method3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="march.Method3" />
       <module name="assginments" />
       <extension name="coverage">
         <pattern>
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Method3" />
         <item itemvalue="Application.Method2" />
         <item itemvalue="Application.Methods1" />
         <item itemvalue="Application.Fibonacci1" />
         <item itemvalue="Application.Factorial1" />
-        <item itemvalue="Application.For1" />
       </list>
     </recent_temporary>
   </component>
