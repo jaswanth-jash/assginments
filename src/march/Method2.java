@@ -1,6 +1,7 @@
 package march;
 
 public class Method2 {
+    //If we use the static keyword, it can be accessed without creating objects.
     private static int getSquare(int x) {
         return x * x;
     }
