@@ -9,7 +9,7 @@ public class ForEach1 {
         Scanner scan = new Scanner(System.in);
         System.out.print("enter the name");
                 String a = scan.nextLine();
-        System.out.println("name is " + a);
+        System.out.println("What is your name" + a);
         scan.close();
 
 
