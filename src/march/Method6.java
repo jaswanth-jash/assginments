@@ -17,6 +17,6 @@ public class Method6 {
         Method6 hs = new Method6();
         System.out.println(hs.formatNumber(500));
         System.out.println(hs.formatNumber(89.9934));
-        System.out.println(hs.formatNumber("550"));
+        System.out.println(hs.formatNumber("600"));
     }
 }
