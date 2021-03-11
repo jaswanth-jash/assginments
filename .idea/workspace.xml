@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6dbfa6-26b1-41a1-bf68-58fb4fcc3e39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/march/Palindrome1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/march/Palindrome2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Palindrome1">
+  <component name="RunManager" selected="Application.Palindrome2">
     <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="march.Array1" />
       <module name="assginments" />
@@ -48,19 +47,6 @@
     </configuration>
     <configuration name="ForEach1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="march.ForEach1" />
-      <module name="assginments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="march.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="march.Method2" />
       <module name="assginments" />
       <extension name="coverage">
         <pattern>
@@ -98,13 +84,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Palindrome2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="march.Palindrome2" />
+      <module name="assginments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="march.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome2" />
         <item itemvalue="Application.Palindrome1" />
         <item itemvalue="Application.Array1" />
         <item itemvalue="Application.ForEach1" />
         <item itemvalue="Application.Method3" />
-        <item itemvalue="Application.Method2" />
       </list>
     </recent_temporary>
   </component>
