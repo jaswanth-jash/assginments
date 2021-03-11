@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6dbfa6-26b1-41a1-bf68-58fb4fcc3e39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/march/Method6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/march/Method6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/march/Array1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +32,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ForEach1">
-    <configuration name="Fibonacci1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="february.Fibonacci1" />
+  <component name="RunManager" selected="Application.Array1">
+    <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="march.Array1" />
       <module name="assginments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="february.*" />
+          <option name="PATTERN" value="march.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array1" />
         <item itemvalue="Application.ForEach1" />
         <item itemvalue="Application.Method3" />
         <item itemvalue="Application.Method2" />
         <item itemvalue="Application.Methods1" />
-        <item itemvalue="Application.Fibonacci1" />
       </list>
     </recent_temporary>
   </component>
