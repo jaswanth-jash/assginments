@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6dbfa6-26b1-41a1-bf68-58fb4fcc3e39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/march/Palindrome1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/march/Array1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/march/Array1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Array1">
+  <component name="RunManager" selected="Application.Palindrome1">
     <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="march.Array1" />
       <module name="assginments" />
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="march.Methods1" />
+    <configuration name="Palindrome1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="march.Palindrome1" />
       <module name="assginments" />
       <extension name="coverage">
         <pattern>
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome1" />
         <item itemvalue="Application.Array1" />
         <item itemvalue="Application.ForEach1" />
         <item itemvalue="Application.Method3" />
         <item itemvalue="Application.Method2" />
-        <item itemvalue="Application.Methods1" />
       </list>
     </recent_temporary>
   </component>
