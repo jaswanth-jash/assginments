@@ -2,7 +2,7 @@ package march;
 
 public class Palindrome1 {
     public static void main(String[] args) {
-        String s = "MADAM" ;
+        String s = "MAM" ;
         s = s.trim();
         String res = " ";
         for (int i = s.length() - 1; i >= 0; i--) {
