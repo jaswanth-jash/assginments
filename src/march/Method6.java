@@ -16,7 +16,7 @@ public class Method6 {
     public static void main(String[] args) {
         Method6 hs = new Method6();
         System.out.println(hs.formatNumber(5));
-        System.out.println(hs.formatNumber(89.9934));
+        System.out.println(hs.formatNumber(89.9998));
         System.out.println(hs.formatNumber("608"));
     }
 }
